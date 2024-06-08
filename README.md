@@ -12,7 +12,8 @@
     <div align="left"> <h4>
  - 📫 you can reach me on:
   </h4>
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/1ts_Shahad" height="20" width="105">
+  
+[![X](https://img.shields.io/twitter/follow/1ts_shahad)](https://img.shields.io/twitter/follow/1ts_Shahad)
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahad-al-johani)
