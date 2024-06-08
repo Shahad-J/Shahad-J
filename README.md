@@ -13,7 +13,7 @@
  - 📫 you can reach me on:
   </h4>
   
-[![X](https://img.shields.io/twitter/follow/1ts_shahad)](https://img.shields.io/twitter/follow/1ts_Shahad)
+[![X](https://img.shields.io/twitter/follow/1ts_shahad)](https://x.com/intent/follow?screen_name=1ts_Shahad)
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahad-al-johani)
